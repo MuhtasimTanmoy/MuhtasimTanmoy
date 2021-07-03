@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=MuhtasimTanmoye&style=plastic&color=blue)
 
 <!--
 **MuhtasimTanmoy/MuhtasimTanmoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- ![Tanmoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhtasimTanmoy&show_icons=true&hide_border=true&count_private=true) -->
+
+![](https://komarev.com/ghpvc/?username=MuhtasimTanmoye&style=plastic&color=blue)
+
+<br />
