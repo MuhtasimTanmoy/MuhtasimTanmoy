@@ -16,7 +16,7 @@ Hi there, I'm an [INTP-T](https://www.16personalities.com/intp-personality) who 
 disciplined in application programming, messaging and crypto domain.
 
 Work so far mostly involves data modeling, concurrency, distributed systems, databases and reactive ui frameworks. 
-Currently fascinated by swift ecosystem and how fast it moves.
+Currently fascinated by swift and how fast the whole ecosystem adopts new change.
 
 Prefer managable, efficient code, and knowing how things really work. Time mostly gets consumed by exploring new tools, solving problems, reading open source codeabse & long stackoverflow answers with considerable amount of internals and making [contributions](https://github.com/MuhtasimTanmoy/Issue-tracker).
 
@@ -27,9 +27,13 @@ Prefer managable, efficient code, and knowing how things really work. Time mostl
   - [jpeg codec] - Experimentation with JPEG codec to study file format internals in c++
   - [webrtc arm64] - Unofficial distribution of WebRTC framework binaries built from source for only arm64 in obj C
   - [messaging server] - Messaging system to build in-app notifications using socket in golang
+  - [riak-kv-benchmark] - Benchmarking riak with twitter dataset
+  - [ERC 721 Experiment] - Experimenting with ERC721 token with solidity, truffle
 
 [whiteboard]: https://github.com/MuhtasimTanmoy/Whiteboard
 [notepad]: https://github.com/MuhtasimTanmoy/NotePad
 [jpeg codec]: https://github.com/MuhtasimTanmoy/jpeg-codec
 [webrtc arm64]: https://github.com/MuhtasimTanmoy/webRTC-arm64
 [messaging server]: https://github.com/MuhtasimTanmoy/Messaging-server
+[riak-kv-benchmark]: https://github.com/MuhtasimTanmoy/Riak-Database-Project
+[ERC 721 Experiment]: https://github.com/MuhtasimTanmoy/ERC721
