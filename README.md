@@ -12,13 +12,11 @@
  > `past:` ethereum, django, react, meteor    
  > `future/learning:` systems programming, rust, c++, llvm, build systems
 
-Hi there, I'm an [INTP-T](https://www.16personalities.com/intp-personality) who is learning, evolving and getting 
-disciplined in application programming, messaging and crypto domain.
+Hi there, I'm an [INTP-T](https://www.16personalities.com/intp-personality) learning, evolving, and getting disciplined in application programming, messaging, and the crypto domain.
 
-Work so far mostly involves data modeling, concurrency, distributed systems, databases and reactive ui frameworks. 
-Currently fascinated by swift and how fast the whole ecosystem adopts new change.
+Work so far mostly involves data modeling, concurrency, distributed systems, databases, and reactive UI frameworks. Currently fascinated by swift and how fast the whole ecosystem adopts new changes.
 
-Prefer managable, efficient code, and knowing how things really work. Time mostly gets consumed by exploring new tools, solving problems, reading open source codeabse & long stackoverflow answers with considerable amount of internals and making [contributions](https://github.com/MuhtasimTanmoy/Issue-tracker).
+I prefer manageable, efficient code, and knowing how things really work. Time mostly gets consumed by exploring new tools, solving problems, reading open-source codebase & long StackOverflow answers with a considerable amount of internals, and making [contributions](https://github.com/MuhtasimTanmoy/Issue-tracker).
 
 
 #### Toy projects
@@ -28,7 +26,7 @@ Prefer managable, efficient code, and knowing how things really work. Time mostl
   - [webrtc arm64] - Unofficial distribution of WebRTC framework binaries built from source for only arm64 in obj C
   - [messaging server] - Messaging system to build in-app notifications using socket in golang
   - [riak-kv-benchmark] - Benchmarking riak with twitter dataset
-  - [ERC 721 experiment] - Experimenting with ERC721 token with solidity, truffle
+  - [erc721 experiment] - Experimenting with ERC721 token with solidity, truffle
 
 [whiteboard]: https://github.com/MuhtasimTanmoy/Whiteboard
 [notepad]: https://github.com/MuhtasimTanmoy/NotePad
@@ -36,4 +34,4 @@ Prefer managable, efficient code, and knowing how things really work. Time mostl
 [webrtc arm64]: https://github.com/MuhtasimTanmoy/webRTC-arm64
 [messaging server]: https://github.com/MuhtasimTanmoy/Messaging-server
 [riak-kv-benchmark]: https://github.com/MuhtasimTanmoy/Riak-Database-Project
-[ERC 721 experiment]: https://github.com/MuhtasimTanmoy/ERC721
+[erc721 experiment]: https://github.com/MuhtasimTanmoy/ERC721
