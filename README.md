@@ -12,7 +12,7 @@
  > `past:` ethereum, django, react, meteor    
  > `future/learning:` systems programming, rust, c++, llvm, build systems
 
-Hi there, I'm an [INTP-T](https://www.16personalities.com/intp-personality), currently learning, evolving, and getting disciplined in application programming, messaging infra, and crypto domain.
+Hi there, I'm an [INTP-T](https://www.16personalities.com/intp-personality), currently learning, evolving, and getting disciplined in application programming, messaging infrastructure, and crypto domain.
 
 Work so far mostly involves data modeling, concurrency, distributed systems, databases, and reactive UI frameworks. Currently fascinated by swift and how fast the whole ecosystem adopts new changes.
 
