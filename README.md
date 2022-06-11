@@ -8,7 +8,7 @@
 
  > Software Engineer
 
- > `present:`  ios, erlang, xmpp, distributed systems, messaging, signal encryption      
+ > `present:`  ios, erlang, xmpp, messaging, signal encryption, webRTC      
  > `past:` ethereum, django, react, meteor    
  > `future/learning:` systems programming, rust, c++, llvm, build systems
 
@@ -16,7 +16,8 @@ Hi there, I'm an [INTP-T](https://www.16personalities.com/intp-personality), cu
 
 Work so far mostly involves data modeling, concurrency, distributed systems, databases, and reactive UI frameworks. Currently fascinated by swift and how fast the whole ecosystem adopts new changes.
 
-I prefer manageable, efficient code, and knowing how things really work. Time mostly gets consumed by exploring new tools, solving problems, reading open-source codebase, admiring long StackOverflow answers with a considerable amount of internals, and making [contributions](https://github.com/MuhtasimTanmoy/Issue-tracker).
+<!-- I prefer manageable, efficient code, and knowing how things really work.  -->
+Time mostly gets consumed by exploring new tools, solving problems, reading open-source codebase, admiring long StackOverflow answers with a considerable amount of internals, and making [contributions](https://github.com/MuhtasimTanmoy/Issue-tracker).
 
 
 #### Toy projects
