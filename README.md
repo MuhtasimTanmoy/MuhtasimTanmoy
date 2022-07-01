@@ -3,10 +3,8 @@
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=413F42&labelColor=000000&logo=linkedin&logoColor=f5f7fe)](https://www.linkedin.com/in/muhtasimtanmoy/)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=413F42&labelColor=000000&logo=gmail&logoColor=f5f7fe)](mailto:mtanmoy5086@gmail.com?subject=From%20GitHub&&body=Hi,%20there.%20Found%20you%20on%20GitHub!%20Let's%20talk%20about...)
-
-
-
- <img src="https://komarev.com/ghpvc/?username=MuhtasimTanmoye&color=grey"/>
+[![Stack Overflow](https://img.shields.io/badge/%20-Stack%20Overflow-black?color=413F42&labelColor=000000&logo=stack-overflow&logoColor=f5f7fe)](https://stackoverflow.com/users/7769239/muhtasim-ulfat-tanmoy)
+<img src="https://komarev.com/ghpvc/?username=MuhtasimTanmoye&color=grey"/>
 
  > Software Engineer
 
@@ -18,7 +16,6 @@ Hi there, I'm an [INTP-T](https://www.16personalities.com/intp-personality), cu
 
 Work so far mostly involves data modeling, concurrency, distributed systems, databases, and reactive UI frameworks. Currently fascinated by swift and how fast the whole ecosystem adopts new changes.
 
-<!-- [![Stack Overflow](https://img.shields.io/badge/%20-Stack%20Overflow-black?color=413F42&labelColor=000000&logo=stack-overflow&logoColor=f5f7fe)](https://stackoverflow.com/users/7769239/muhtasim-ulfat-tanmoy) I prefer manageable, efficient code, and knowing how things really work.  -->
 Time mostly gets consumed by exploring new tools, solving problems, reading open-source codebase, admiring long StackOverflow answers with a considerable amount of internals, and making [contributions](https://github.com/MuhtasimTanmoy/Issue-tracker).
 
 
