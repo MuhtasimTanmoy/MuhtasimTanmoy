@@ -16,7 +16,7 @@ Hi there, I'm an [INTP-T](https://www.16personalities.com/intp-personality), cu
 
 Work so far mostly involves data modeling, concurrency, distributed systems, databases, and reactive UI frameworks. Currently fascinated by swift and how fast the whole ecosystem adopts new changes.
 
-Time mostly gets consumed by exploring new tools, solving problems, reading open-source codebase, admiring long StackOverflow answers with a considerable amount of internals, and making [contributions](https://github.com/MuhtasimTanmoy/Issue-tracker).
+Time mostly gets consumed by exploring new tools, solving problems, reading open-source codebase, admiring long stackoverflow answers with a considerable amount of internals, and making [contributions](https://github.com/MuhtasimTanmoy/Issue-tracker).
 
 
 #### Toy projects
