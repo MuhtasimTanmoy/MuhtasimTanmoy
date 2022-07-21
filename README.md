@@ -28,7 +28,6 @@ Time mostly gets consumed by exploring new tools, solving problems, reading open
   - [webrtc arm64] - Unofficial distribution of WebRTC framework binaries built from source for only arm64 in obj C
   - [messaging server] - Messaging system to build in-app notifications using socket in golang
   - [riak-kv-benchmark] - Benchmarking riak with twitter dataset
-  - [erc721 experiment] - Experimenting with ERC721 token with solidity, truffle
 
 [whiteboard]: https://github.com/MuhtasimTanmoy/Whiteboard
 [notepad]: https://github.com/MuhtasimTanmoy/NotePad
@@ -36,4 +35,3 @@ Time mostly gets consumed by exploring new tools, solving problems, reading open
 [webrtc arm64]: https://github.com/MuhtasimTanmoy/webRTC-arm64
 [messaging server]: https://github.com/MuhtasimTanmoy/Messaging-server
 [riak-kv-benchmark]: https://github.com/MuhtasimTanmoy/Riak-Database-Project
-[erc721 experiment]: https://github.com/MuhtasimTanmoy/ERC721
