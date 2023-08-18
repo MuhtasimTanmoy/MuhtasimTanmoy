@@ -25,9 +25,9 @@
 
 I'm a software engineer with a focus on distributed systems, data modeling, messaging, and financial domains.
 
-At present, I am primarily working on payment wallet microservices from the design to the deployment stage. Previously, I worked with messaging backend and client apps, payment systems, and brokerage order management software. 
+At present, I am primarily working on payment wallet microservices from the design to the deployment stage. Previously, I worked with messaging server backend and client apps, payment systems, and brokerage order management software. 
 
-Additionally, I am actively learning and contributing to the web3 and p2p networking domain with `Rust` as the main language.
+Additionally, I am actively learning and contributing to the web3 and p2p networking domain with `Rust` as the primary language.
 
 In general, I like spending lots of time exploring various random topics that pique my interest, solving [problems](https://github.com/MuhtasimTanmoy/playground), delving into open-source codebases, and making [contributions](https://github.com/MuhtasimTanmoy/Issue-tracker) to them.
 
