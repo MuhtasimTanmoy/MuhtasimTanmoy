@@ -25,7 +25,7 @@
 
 I'm a software engineer with a focus on distributed systems, data modeling, messaging, and financial domains.
 
-At present, I am primarily working on payment wallet microservices from the design to the deployment stage. Previously, I worked with messaging server backend and client apps, payment systems, and brokerage order management software. 
+At present, I am primarily working on payment wallet microservices from the design to the deployment stage. Previously, I worked with messaging server backend and client apps, payment systems. 
 
 Additionally, I am actively learning and contributing to the web3 and p2p networking domain with `Rust` as the primary language.
 
