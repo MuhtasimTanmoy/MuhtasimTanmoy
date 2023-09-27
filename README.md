@@ -1,5 +1,6 @@
 
-<h5 align="center">FAVP (First Asst. Vice President) of Engineering at <a href='https://www.crunchbase.com/organization/bashundhara-group'>ABG Ltd · Bashundhara</a> making Financial Software (Backend + DevOps) <br/> • Previously, Senior Software Engineer at <a href='https://www.databird.co'>Databird</a> (Payment + Messaging) • CS Graduate, <a href='https://buet.ac.bd'>BUET</a> 
+<h5 align="center"> FAVP (First Asst. Vice President) of Engineering at <a href='https://www.crunchbase.com/organization/bashundhara-group'>ABG ltd · Bashundhara </a> making Financial Software (Backend + DevOps) <br/> • Previously, Senior Software Engineer at <a href='https://databird.co'>Databird</a> (Messaging + Payment) • CS Graduate 2019<a href='https://buet.ac.bd'> BUET</a> 
+<br/>
 
 <br/>
 <br/>
@@ -20,14 +21,14 @@
 👋 Hello, Tanmoy here!
 
  > `present:` java, microservices, kubernetes, kafka <br/>
- > `past:` iOS, messaging, XMPP, erlang, webRTC, react, signal encryption                       
+ > `past:` ios, messaging, XMPP, erlang, webRTC, react, signal encryption                       
  > `future/learning:` systems programming, rust, p2p networking, web3
 
 I'm a software engineer with a focus on distributed systems, data modeling, messaging, and financial domains.
 
-At present, I am primarily working on payment wallet microservices from the design to the deployment stage. Previously, I worked with messaging server backend and client apps, payment systems. 
+At present, I am primarily working on payment wallet microservices from the design to the deployment stage. Previously, I worked with messaging server backend, deployment, messaging client apps and payment systems.
 
-Additionally, I am actively learning and contributing to the web3 and p2p networking domain with `Rust` as the primary language.
+Additionally, I am actively learning and contributing to the web3, kubernates and p2p networking domain with `Rust` as the primary language.
 
 In general, I like spending lots of time exploring various random topics that pique my interest, solving [problems](https://github.com/MuhtasimTanmoy/playground), delving into open-source codebases, and making [contributions](https://github.com/MuhtasimTanmoy/Issue-tracker) to them.
 
