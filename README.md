@@ -1,5 +1,5 @@
 
-<h5 align="center"> FAVP (First Asst. Vice President) of Engineering at <a href='https://www.crunchbase.com/organization/bashundhara-group'>ABG ltd · Bashundhara </a> making Financial Software (Backend + DevOps) <br/> • Previously, Senior Software Engineer at <a href='https://databird.co'>Databird</a> (Messaging + Payment) • CS Graduate 2019<a href='https://buet.ac.bd'> BUET</a> 
+<div align="center"> FAVP (First Asst. Vice President) of Engineering at <a href='https://www.crunchbase.com/organization/bashundhara-group'>ABG ltd · Bashundhara </a> making Financial Software (Backend + DevOps) <br/> • Previously, Senior Software Engineer at <a href='https://databird.co'>Databird</a> (Messaging + Payment) • CS Graduate 2019<a href='https://buet.ac.bd'> BUET</a> 
 <br/>
 
 <br/>
@@ -11,9 +11,7 @@
 [![Stack Overflow](https://img.shields.io/badge/%20-Stack%20Overflow-black?color=413F42&labelColor=000000&logo=stack-overflow&logoColor=f5f7fe)](https://stackoverflow.com/users/7769239/muhtasim-ulfat-tanmoy)
 <img src="https://komarev.com/ghpvc/?username=MuhtasimTanmoye&color=grey"/>
 <img src="https://img.shields.io/github/stars/MuhtasimTanmoy?label=Github%20Stars&logo=Profile%20stars&logoColor=g" alt="stars" /> 
-
-
-</h5>
+</div>
 
 
 -----
