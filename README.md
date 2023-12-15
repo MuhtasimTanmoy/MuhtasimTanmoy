@@ -1,7 +1,4 @@
-
-<div align="center"> FAVP (First Asst. Vice President) of Engineering at <a href='https://www.crunchbase.com/organization/bashundhara-group'>ABG ltd · Bashundhara </a> making Financial Software (Backend + DevOps) <br/> • Previously, Senior Software Engineer at <a href='https://databird.co'>Databird</a> (Messaging + Payment) • CS Graduate 2019<a href='https://buet.ac.bd'> BUET</a> 
-<br/>
-
+<div align="center"> FAVP (First Asst. Vice President) of Engineering at <a href='https://www.crunchbase.com/organization/bashundhara-group'>ABG ltd · Bashundhara</a> making <a href='https://abgpocket.com'> Pocket</a> wallet (Backend + DevOps) <br/> • Previously, Senior Software Engineer at <a href='https://databird.co'>Databird</a> (Messaging + Payment) • CS Graduate 2019<a href='https://buet.ac.bd'> BUET</a> 
 <br/>
 <br/>
 <br/>
@@ -13,22 +10,19 @@
 <img src="https://img.shields.io/github/stars/MuhtasimTanmoy?label=Github%20Stars&logo=Profile%20stars&logoColor=g" alt="stars" /> 
 </div>
 
-
------
-
 👋 Hello, Tanmoy here!
 
  > `present:` java, microservices, kubernetes, kafka <br/>
- > `past:` ios, messaging, XMPP, erlang, webRTC, react, signal encryption                       
- > `future/learning:` systems programming, rust, p2p networking, web3
+ > `past:` ios, messaging, XMPP, erlang, webRTC, react, signal e2e encryption                       
+ > `future/learning:` systems programming, rust, go, p2p networking, web3, zk
 
-I'm a software engineer with a focus on distributed systems, data modeling, messaging, and financial domains.
+Software engineer with a focus on distributed & decentralized systems, data modeling, messaging and computer science in general.
 
-At present, I am primarily working on payment wallet microservices from the design to the deployment stage. Previously, I worked with messaging server backend, deployment, messaging client apps and payment systems.
+At present, primarily working on payment wallet microservices from the design to the deployments stage. Previously, worked with messaging server backend, deployment, messaging client apps and payment systems.
 
-Additionally, I am actively learning and contributing to the web3, kubernates and p2p networking domain with `Rust` as the primary language.
+Additionally actively learning and contributing to the web3, kubernates and p2p networking domain with `Rust` and `Go`, solving [problems](https://github.com/MuhtasimTanmoy/playground) and making [open source contributions](https://github.com/MuhtasimTanmoy/Issue-tracker).
 
-In general, I like spending lots of time exploring various random topics that pique my interest, solving [problems](https://github.com/MuhtasimTanmoy/playground), delving into open-source codebases, and making [contributions](https://github.com/MuhtasimTanmoy/Issue-tracker) to them.
+<!--- taking notes of topics of interest --->
 
 #### Toy projects
   - [chainrs] - Experimental blockchain node built from scratch with rust
@@ -51,4 +45,4 @@ In general, I like spending lots of time exploring various random topics that pi
 [messaging server]: https://github.com/MuhtasimTanmoy/Messaging-server
 [riak-kv-benchmark]: https://github.com/MuhtasimTanmoy/Riak-Database-Project
 
-<sub><sup>Last edited on: 13/08/2023</sup></sub>
+<sub><sup>Last edited on: 15/12/2023</sup></sub>
