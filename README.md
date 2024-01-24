@@ -1,4 +1,4 @@
-<div align="center"> FAVP (First Asst. Vice President) of Engineering at <a href='https://www.crunchbase.com/organization/bashundhara-group'>ABG ltd · Bashundhara</a> making <a href='https://abgpocket.com'> Pocket</a> wallet (Backend + DevOps) <br/> • Previously, Senior Software Engineer at <a href='https://databird.co'>Databird</a> (Messaging + Payment) • CS Graduate 2019<a href='https://buet.ac.bd'> BUET</a> 
+<div align="center"> FAVP (First Asst. Vice President) of Engineering at <a href='https://www.crunchbase.com/organization/bashundhara-group'>ABG ltd · Bashundhara</a> leading <a href='https://abgpocket.com'> Pocket</a> wallet (Backend + DevOps) <br/> • Previously, Senior Software Engineer at <a href='https://databird.co'>Databird</a> (Messaging + Payment) • CS Graduate 2019<a href='https://buet.ac.bd'> BUET</a> 
 <br/>
 <br/>
 <br/>
@@ -18,7 +18,7 @@
 
 Software engineer with a focus on distributed & decentralized systems, data modeling and computer science in general.
 
-At present, primarily working on payment wallet microservices from the design to the deployments stage. Previously, worked with messaging server backend, deployment, messaging client apps and payment systems.
+At present, primarily working on payment wallet microservices from the design to the deployment stage. Previously, worked with messaging server backend, deployment, messaging client apps and payment systems.
 
 Additionally actively learning and contributing to the web3, kubernates and p2p networking domain with `Rust` and `Go`, solving [problems](https://github.com/MuhtasimTanmoy/playground) and making [open source contributions](https://github.com/MuhtasimTanmoy/Issue-tracker).
 
