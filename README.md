@@ -7,6 +7,7 @@
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=413F42&labelColor=000000&logo=gmail&logoColor=f5f7fe)](mailto:mtanmoy5086@gmail.com?subject=From%20GitHub&&body=Hi,%20there.%20Found%20you%20on%20GitHub!%20Let's%20talk%20about...)
 [![Stack Overflow](https://img.shields.io/badge/%20-Stack%20Overflow-black?color=413F42&labelColor=000000&logo=stack-overflow&logoColor=f5f7fe)](https://stackoverflow.com/users/7769239/muhtasim-ulfat-tanmoy)
 <img src="https://komarev.com/ghpvc/?username=MuhtasimTanmoye&color=grey"/>
+[![LeetCode user t86](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=t86%3A%20Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Ft86&logo=leetcode&logoColor=yellow)](https://leetcode.com/t86/)
 <img src="https://img.shields.io/github/stars/MuhtasimTanmoy?label=Github%20Stars&logo=Profile%20stars&logoColor=g" alt="stars" /> 
 </div>
 
@@ -45,4 +46,4 @@ Additionally actively learning and contributing to the web3, kubernates and p2p 
 [messaging server]: https://github.com/MuhtasimTanmoy/Messaging-server
 [riak-kv-benchmark]: https://github.com/MuhtasimTanmoy/Riak-Database-Project
 
-<sub><sup>Last edited on: 15/12/2023</sup></sub>
+<sub><sup>Last edited on: 24/05/2024</sup></sub>
