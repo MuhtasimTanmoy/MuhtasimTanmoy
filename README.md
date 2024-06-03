@@ -16,7 +16,7 @@
 
  > `present:` java, microservices, kubernetes, kafka <br/>
  > `past:` ios, messaging, XMPP, erlang, webRTC, react, signal e2e encryption                       
- > `future/learning:` systems programming, rust, go, p2p networking, web3, zk
+ > `learning:` systems programming, rust, go, p2p networking, web3, zk
 
 Software engineer with a focus on distributed & decentralized systems, data modeling and computer science in general.
 
