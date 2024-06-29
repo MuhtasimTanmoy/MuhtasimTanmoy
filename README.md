@@ -22,7 +22,7 @@ Software engineer with a focus on distributed & decentralized systems, data mode
 
 At present, primarily working on payment wallet microservices from the design to the deployment stage. Previously, worked with messaging server backend, deployment, encrypted messaging apps, webRTC and payment systems.
 
-Additionally actively learning and contributing to the web3, kubernates and p2p networking domain with `Rust` and `Go`, solving [problems](https://github.com/MuhtasimTanmoy/playground), writing [blogs](https://github.com/MuhtasimTanmoy/notebook) and making [open source contributions](https://github.com/MuhtasimTanmoy/Issue-tracker).
+Additionally actively learning and contributing to the web3, kubernetes and p2p networking domain with `Rust` and `Go`, solving [problems](https://github.com/MuhtasimTanmoy/playground), writing [blogs](https://github.com/MuhtasimTanmoy/notebook) and making [open source contributions](https://github.com/MuhtasimTanmoy/Issue-tracker).
 
 <!--- taking notes of topics of interest --->
 
