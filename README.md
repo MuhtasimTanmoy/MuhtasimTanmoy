@@ -14,15 +14,15 @@
 
 👋 Hello, Tanmoy here!
 
- > `present:` java, microservices, kubernetes, kafka <br/>
+ > `present:` java, microservices, kafka, kubernetes, observability                                    
  > `past:` ios, messaging, XMPP, erlang, webRTC, react, signal e2e encryption                       
- > `learning:` systems programming, rust, go, p2p networking, web3, zk
+ > `learning:` systems programming, [rust](https://github.com/MuhtasimTanmoy/rust-playground), go, p2p networking, web3, zk                                                                                                                         
 
 Software engineer with a focus on distributed & decentralized systems, data modeling and computer science in general.
 
 At present, primarily working on payment wallet microservices from the design to the deployment stage. Previously, worked with messaging server backend, deployment, encrypted messaging apps, webRTC and payment systems.
 
-Additionally actively learning and contributing to the web3, kubernates and p2p networking domain with `Rust` and `Go`, solving [problems](https://github.com/MuhtasimTanmoy/playground) and making [open source contributions](https://github.com/MuhtasimTanmoy/Issue-tracker).
+Additionally actively learning and contributing to the web3, kubernates and p2p networking domain with `Rust` and `Go`, solving [problems](https://github.com/MuhtasimTanmoy/playground), writing [blogs](https://github.com/MuhtasimTanmoy/notebook) and making [open source contributions](https://github.com/MuhtasimTanmoy/Issue-tracker).
 
 <!--- taking notes of topics of interest --->
 
@@ -38,7 +38,7 @@ Additionally actively learning and contributing to the web3, kubernates and p2p 
   - [riak-kv-benchmark] - Benchmarking riak with the Twitter dataset
 
 [chainrs]: https://github.com/MuhtasimTanmoy/chainrs
-[rust playground]: https://github.com/MuhtasimTanmoy/rust-playground
+[rust playground]: https://github.com/MuhtasimTanmoy/rust-playground                    
 [trading journal]: https://github.com/MuhtasimTanmoy/Trade-Journal
 [whiteboard]: https://github.com/MuhtasimTanmoy/Whiteboard
 [notepad]: https://github.com/MuhtasimTanmoy/NotePad
@@ -47,4 +47,4 @@ Additionally actively learning and contributing to the web3, kubernates and p2p 
 [messaging server]: https://github.com/MuhtasimTanmoy/Messaging-server
 [riak-kv-benchmark]: https://github.com/MuhtasimTanmoy/Riak-Database-Project
 
-<sub><sup>Last edited on: 24/05/2024</sup></sub>
+<sub><sup>Last edited on: 30/06/2024</sup></sub>
