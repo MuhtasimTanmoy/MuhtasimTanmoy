@@ -16,7 +16,7 @@
 
  > `present:` java, microservices, kafka, kubernetes, observability                                    
  > `past:` ios, messaging, XMPP, erlang, webRTC, react, signal e2e encryption                       
- > `learning:` systems programming, [rust](https://github.com/MuhtasimTanmoy/rust-playground), applied cryptography, p2p networking, web3, zk                                                                                                                       
+ > `learning:` systems programming, [rust](https://github.com/MuhtasimTanmoy/rust-playground), p2p networking, web3                                                                                                                       
 
 Software engineer with a focus on distributed & decentralized systems, data modeling, and computer science in general.
 
