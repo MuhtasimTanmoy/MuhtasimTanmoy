@@ -16,13 +16,14 @@
 
  > `present:` java, microservices, kafka, kubernetes, observability                                    
  > `past:` ios, messaging, XMPP, erlang, webRTC, react, signal e2e encryption                       
- > `learning:` systems programming, [rust](https://github.com/MuhtasimTanmoy/rust-playground), p2p networking, web3                                                                                                                       
+ > `learning:` zk, verifiable compute, [rust](https://github.com/MuhtasimTanmoy/rust-playground), web3, applied cryptography
 
-Software engineer with a focus on distributed & decentralized systems, data modeling, and computer science in general.
 
-At present, primarily working on payment wallet microservices from the design to the deployment stage. Previously, worked with messaging server backend, deployment, encrypted messaging apps, webRTC, and payment systems.
+Software engineer focusing on distributed, decentralized systems, applied cryptography, data modeling, and computer science in general.
 
-Additionally actively learning and contributing to the web3, kubernetes, and p2p networking domain with `Rust` and `Go`, solving [problems](https://github.com/MuhtasimTanmoy/playground), writing [blogs](https://github.com/MuhtasimTanmoy/notebook) and making [open source contributions](https://github.com/MuhtasimTanmoy/Issue-tracker).
+At present, primarily working on payment wallet microservices from the design to the deployment stage. Previously, worked with messaging server backend, deployment, encrypted messaging app, webRTC, and payment systems.
+
+Additionally actively learning and contributing to the web3, kubernetes, and zk domain with `Rust` and `Go`, solving [problems](https://github.com/MuhtasimTanmoy/playground), writing [blogs](https://github.com/MuhtasimTanmoy/notebook) and making open source [contributions](https://github.com/MuhtasimTanmoy/Issue-tracker).
 
 <!--- taking notes of topics of interest --->
 
@@ -47,4 +48,4 @@ Additionally actively learning and contributing to the web3, kubernetes, and p2p
 [messaging server]: https://github.com/MuhtasimTanmoy/Messaging-server
 [riak-kv-benchmark]: https://github.com/MuhtasimTanmoy/Riak-Database-Project
 
-<sub><sup>Last edited on: 30/06/2024</sup></sub>
+<sub><sup>Last edited on: 30/09/2024</sup></sub>
