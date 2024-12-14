@@ -16,17 +16,19 @@
 
  > `present:` java, microservices, kafka, kubernetes, observability                                    
  > `past:` ios, messaging, XMPP, erlang, webRTC, react, signal e2e encryption                       
- > `learning:` systems programming, [rust](https://github.com/MuhtasimTanmoy/rust-playground), web3                                                                                                                       
+ > `learning:` zk, verifiable compute, [rust](https://github.com/MuhtasimTanmoy/rust-playground), web3, applied cryptography
 
-Software engineer with a focus on distributed & decentralized systems, data modeling, and computer science in general.
 
-At present, primarily working on payment wallet microservices from the design to the deployment stage. Previously, worked with messaging server backend, deployment, encrypted messaging apps, webRTC, and payment systems.
+Software engineer focusing on distributed systems, applied cryptography, data modeling, and computer science in general.
 
-Additionally actively learning and contributing to the web3 and kubernetes with `Rust` and `Go`, solving [problems](https://github.com/MuhtasimTanmoy/playground), writing [blogs](https://github.com/MuhtasimTanmoy/notebook) and making open source [contributions](https://github.com/MuhtasimTanmoy/Issue-tracker).
+At present, primarily working on payment wallet microservices from the design to the deployment stage. Previously, worked with messaging server backend, deployment, encrypted messaging app, webRTC, and payment systems.
+
+Additionally actively learning and contributing to the web3, kubernetes, and zk protocols with `Rust` and `Go`, solving [problems](https://github.com/MuhtasimTanmoy/playground), writing [blogs](https://github.com/MuhtasimTanmoy/notebook) and making open source [contributions](https://github.com/MuhtasimTanmoy/Issue-tracker).
 
 <!--- taking notes of topics of interest --->
 
 #### Toy projects
+  - [zkbench] - Benchmark of ZKVMs and Proving Schemes
   - [chainrs] - Experimental blockchain node built from scratch with rust
   - [rust playground] - Random code, snippets, materials, and documentation while learning rust
   - [trading journal] - Insights gained from quant trading and bot management 
@@ -34,9 +36,9 @@ Additionally actively learning and contributing to the web3 and kubernetes with 
   - [notepad] - Exploring Meteor's real-time DDP protocol by building yet another notepad
   - [jpeg codec] - Experimentation with JPEG codec to study file format internals in C++
   - [webrtc arm64] - Unofficial distribution of WebRTC framework binaries built from source for only arm64 in obj C
-  - [messaging server] - Messaging system to build in-app notifications using the socket in Golang
   - [riak-kv-benchmark] - Benchmarking riak with the Twitter dataset
 
+[zkbench]: https://github.com/babybear-labs/benchmark
 [chainrs]: https://github.com/MuhtasimTanmoy/chainrs
 [rust playground]: https://github.com/MuhtasimTanmoy/rust-playground                    
 [trading journal]: https://github.com/MuhtasimTanmoy/Trade-Journal
@@ -47,4 +49,4 @@ Additionally actively learning and contributing to the web3 and kubernetes with 
 [messaging server]: https://github.com/MuhtasimTanmoy/Messaging-server
 [riak-kv-benchmark]: https://github.com/MuhtasimTanmoy/Riak-Database-Project
 
-<sub><sup>Last edited on: 30/06/2024</sup></sub>
+<sub><sup>Last edited on: 14/12/2024</sup></sub>
