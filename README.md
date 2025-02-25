@@ -1,4 +1,4 @@
-<div align="center"> FAVP (First Asst. Vice President) of Engineering at <a href='https://www.crunchbase.com/organization/bashundhara-group'>ABG Ltd · Bashundhara</a> leading <a href='https://abgpocket.com'> Pocket</a> wallet (Backend + DevOps) <br/> • Previously, Senior Software Engineer at <a href='https://databird.co'>Databird</a> (Messaging + Payment) • CS Graduate 2019<a href='https://buet.ac.bd'> BUET</a> 
+<div align="center"> FAVP (First Asst. Vice President) of Engineering at <a href='https://www.crunchbase.com/organization/bashundhara-group'>ABG Ltd · Bashundhara</a> leading <a href='https://abgpocket.com'> Pocket</a> wallet (Backend + DevOps) <br/> • Previously, Consultant @ <a href='https://www.reddotdigitalit.com'>Reddot</a> (Payment) • Senior Software Engineer at <a href='https://databird.co'>Databird</a> (Messaging + Payment) • CS Graduate 2019<a href='https://buet.ac.bd'> BUET</a> 
 <br/>
 <br/>
 <br/>
@@ -14,7 +14,7 @@
 
 👋 Hello, Tanmoy here!
 
- > `present:` java, microservices, kafka, kubernetes, observability                                    
+ > `present:` java, microservices, kafka, kubernetes, observability                         
  > `past:` ios, messaging, XMPP, erlang, webRTC, react, signal e2e encryption                       
  > `learning:` [zk](https://github.com/poly-layer/zk), verifiable compute, [rust](https://github.com/MuhtasimTanmoy/rust-playground), web3, applied cryptography
 
