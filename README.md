@@ -23,21 +23,23 @@ Software engineer focusing on distributed systems, applied cryptography, data mo
 
 At present, primarily working on payment wallet microservices from the design to the deployment stage. Previously, worked with messaging server backend, deployment, encrypted messaging app, webRTC, and payment systems.
 
-Additionally actively learning and contributing to the web3, kubernetes, and zk protocols with `Rust` and `Go`, solving [problems](https://github.com/MuhtasimTanmoy/playground), writing [blogs](https://github.com/MuhtasimTanmoy/notebook) and making open source [contributions](https://github.com/MuhtasimTanmoy/Issue-tracker).
+Additionally, actively learning and contributing to the web3, kubernetes, and zk protocols with `Rust` and `Go`, solving [problems](https://github.com/MuhtasimTanmoy/playground), writing [blogs](https://github.com/MuhtasimTanmoy/notebook) and making OSS contributions.
 
 <!--- taking notes of topics of interest --->
 
 #### Toy projects
   - [zkbench] - Benchmark of ZKVMs and Proving Schemes
-  - [chainrs] - Experimental blockchain node built from scratch with rust
+  - [chainrs] - Experimental blockchain node built from scratch with Rust
   - [rust playground] - Random code, snippets, materials, and documentation while learning rust
   - [trading journal] - Insights gained from quant trading and bot management 
   - [whiteboard] - Real-time video, audio, canvas, pdf sharing & gaming with peer js & webRTC
   - [notepad] - Exploring Meteor's real-time DDP protocol by building yet another notepad
   - [jpeg codec] - Experimentation with JPEG codec to study file format internals in C++
-  - [webrtc arm64] - Unofficial distribution of WebRTC framework binaries built from source for only arm64 in obj C
+  - [webrtc arm64] - Unofficial distribution of WebRTC framework binaries built from source for only arm64 in Objective-C
   - [riak-kv-benchmark] - Benchmarking riak with the Twitter dataset
+  - [issue-tracker] - Index to contributions for future reference and ease of access
 
+[issue-tracker]: https://github.com/MuhtasimTanmoy/Issue-tracker
 [zkbench]: https://github.com/babybear-labs/benchmark
 [chainrs]: https://github.com/MuhtasimTanmoy/chainrs
 [rust playground]: https://github.com/MuhtasimTanmoy/rust-playground                    
