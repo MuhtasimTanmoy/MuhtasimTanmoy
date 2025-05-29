@@ -1,4 +1,4 @@
-<div align="center"> FAVP (First Asst. Vice President) of Engineering @ <a href='https://www.crunchbase.com/organization/bashundhara-group'>ABG Ltd · Bashundhara</a> leading <a href='https://abgpocket.com'> Pocket</a> wallet (Backend + DevOps) <br/> • Previously, Consultant @ <a href='https://www.reddotdigitalit.com'>Reddot</a> (Payment) • Senior Software Engineer @ <a href='https://databird.co'>Databird</a> (Messaging + Payment) <br/> • CS Graduate 2019<a href='https://buet.ac.bd'> BUET</a> 
+<div align="center"> Lead Software Engineer (FAVP) @ <a href='https://www.crunchbase.com/organization/bashundhara-group'>ABG Ltd · Bashundhara</a> building <a href='https://abgpocket.com'> Pocket</a> wallet (Backend + DevOps) <br/> • Previously, Consultant @ <a href='https://www.reddotdigitalit.com'>Reddot</a> (Payment) • Senior Software Engineer @ <a href='https://databird.co'>Databird</a> (Messaging + Payment) <br/> • CS Graduate 2019<a href='https://buet.ac.bd'> BUET</a> 
 <br/>
 <br/>
 <br/>
@@ -18,28 +18,31 @@
  > `past:` ios, messaging, XMPP, erlang, webRTC, react, signal e2e encryption                       
  > `learning:` [zk](https://github.com/poly-layer/zk), verifiable compute, [rust](https://github.com/MuhtasimTanmoy/rust-playground), web3, applied cryptography
 
-
 Software engineer focusing on distributed systems, applied cryptography, data modeling, and computer science in general.
 
-At present, primarily working on payment wallet microservices from the design to the deployment stage. Previously, worked with messaging server backend, deployment, encrypted messaging app, webRTC, and payment systems.
+At present, primarily working on payment wallet microservices from the design to the deployment stage. Previously, worked with XMPP, encrypted messaging app & server, webRTC, and payment systems.
 
-Additionally, actively learning and contributing to the web3, kubernetes, and zk protocols with `Rust` and `Go`, solving [problems](https://github.com/MuhtasimTanmoy/playground), writing [blogs](https://github.com/MuhtasimTanmoy/notebook) and making OSS contributions.
+Additionally, actively learning and contributing to the ethereum, and zk protocols with `Rust`, solving [problems](https://github.com/MuhtasimTanmoy/playground), writing [blogs](https://github.com/MuhtasimTanmoy/notebook) and making OSS contributions.
 
 <!--- taking notes of topics of interest --->
 
-#### Toy projects
-  - [zkbench] - Benchmark of ZKVMs and Proving Schemes
+#### Projects
+  - [zkbench] - Benchmark of ZKVMs and Proving Schemes - `zk bootcamp`
   - [chainrs] - Experimental blockchain node built from scratch with Rust
-  - [rust playground] - Random code, snippets, materials, and documentation while learning rust
-  - [trading journal] - Insights gained from quant trading and bot management 
+  - [tokenized vault] - Yield-bearing smart contract - `advanced solidity bootcamp`
+  - [zkml] - ZK proof system for handwriting/signature verification - `zkml bootcamp`
+  - [gkr] - Recursive GKR Proof Compression - `expander bootcamp bounty`
+  - [gvm] - GKR based Risc-V VM
   - [whiteboard] - Real-time video, audio, canvas, pdf sharing & gaming with peer js & webRTC
-  - [notepad] - Exploring Meteor's real-time DDP protocol by building yet another notepad
   - [jpeg codec] - Experimentation with JPEG codec to study file format internals in C++
-  - [webrtc arm64] - Unofficial distribution of WebRTC framework binaries built from source for only arm64 in Objective-C
-  - [riak-kv-benchmark] - Benchmarking riak with the Twitter dataset
   - [issue-tracker] - Index to contributions for future reference and ease of access
 
+[thaler]: https://github.com/babybear-labs/GKR
+[gkr]: https://github.com/babybear-labs/GKR
+[gvm]: https://github.com/poly-layer/gvm
 [issue-tracker]: https://github.com/MuhtasimTanmoy/Issue-tracker
+[tokenized vault]: https://github.com/solidity-bootcamp-group-5/final-project
+[zkml]: https://github.com/babybear-labs/ZKML-Bootcamp
 [zkbench]: https://github.com/babybear-labs/benchmark
 [chainrs]: https://github.com/MuhtasimTanmoy/chainrs
 [rust playground]: https://github.com/MuhtasimTanmoy/rust-playground                    
@@ -47,8 +50,7 @@ Additionally, actively learning and contributing to the web3, kubernetes, and zk
 [whiteboard]: https://github.com/MuhtasimTanmoy/Whiteboard
 [notepad]: https://github.com/MuhtasimTanmoy/NotePad
 [jpeg codec]: https://github.com/MuhtasimTanmoy/jpeg-codec
-[webrtc arm64]: https://github.com/MuhtasimTanmoy/webRTC-arm64
-[messaging server]: https://github.com/MuhtasimTanmoy/Messaging-server
+[webrtc arm64 library]: https://github.com/MuhtasimTanmoy/webRTC-arm64
 [riak-kv-benchmark]: https://github.com/MuhtasimTanmoy/Riak-Database-Project
 
-<sub><sup>Last edited on: 14/12/2024</sup></sub>
+<sub><sup>Last edited on: 12/02/2025</sup></sub>
