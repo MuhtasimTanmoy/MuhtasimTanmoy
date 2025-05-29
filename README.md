@@ -28,11 +28,11 @@ Additionally, actively learning and contributing to the ethereum, and zk protoco
 
 #### Projects
   - [zkbench] - Benchmark of ZKVMs and Proving Schemes - `zk bootcamp`
-  - [chainrs] - Experimental blockchain node built from scratch with Rust
   - [tokenized vault] - Yield-bearing smart contract - `advanced solidity bootcamp`
   - [zkml] - ZK proof system for handwriting/signature verification - `zkml bootcamp`
   - [gkr] - Recursive GKR Proof Compression - `expander bootcamp bounty`
   - [gvm] - GKR based Risc-V VM
+  - [chainrs] - Experimental blockchain node built from scratch with Rust
   - [whiteboard] - Real-time video, audio, canvas, pdf sharing & gaming with peer js & webRTC
   - [jpeg codec] - Experimentation with JPEG codec to study file format internals in C++
   - [issue-tracker] - Index to contributions for future reference and ease of access
