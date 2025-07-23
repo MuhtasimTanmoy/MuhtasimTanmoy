@@ -1,4 +1,4 @@
-<div align="center"> Lead Software Engineer (FAVP) @ <a href='https://www.crunchbase.com/organization/bashundhara-group'>ABG Ltd · Bashundhara</a> building <a href='https://abgpocket.com'> Pocket</a> wallet (Backend + DevOps) <br/> • Previously, Consultant @ <a href='https://www.reddotdigitalit.com'>Reddot</a> (Payment) • Senior Software Engineer @ <a href='https://databird.co'>Databird</a> (Messaging + Payment) <br/> • CS Graduate 2019<a href='https://buet.ac.bd'> BUET</a> 
+<div align="center"> Lead Software Engineer (FAVP) @ <a href='https://www.crunchbase.com/organization/bashundhara-group'>ABG Ltd · Bashundhara</a> building <a href='https://abgpocket.com'> Pocket</a> wallet (Backend + Systems) <br/> • Previously, Consultant @ <a href='https://www.reddotdigitalit.com'>Reddot</a> (Payment) • Senior Software Engineer @ <a href='https://databird.co'>Databird</a> (Messaging + Payment) <br/> • CS Graduate 2019<a href='https://buet.ac.bd'> BUET</a> 
 <br/>
 <br/>
 <br/>
@@ -22,7 +22,7 @@ Software engineer focusing on distributed systems, applied cryptography, data mo
 
 At present, primarily working on payment wallet microservices from the design to the deployment stage. Previously, worked with XMPP, encrypted messaging app & server, webRTC, and payment systems.
 
-Additionally, actively learning and contributing to the ethereum, and zk protocols with `Rust`, solving [problems](https://github.com/MuhtasimTanmoy/playground), writing [blogs](https://github.com/MuhtasimTanmoy/notebook) and making OSS contributions.
+Additionally, actively learning and contributing to the ethereum and zk protocols with `Rust`, solving [problems](https://github.com/MuhtasimTanmoy/playground), writing [blogs](https://github.com/MuhtasimTanmoy/notebook), and making OSS contributions.
 
 <!--- taking notes of topics of interest --->
 
@@ -31,9 +31,9 @@ Additionally, actively learning and contributing to the ethereum, and zk protoco
   - [tokenized vault] - Yield-bearing smart contract - `advanced solidity bootcamp`
   - [zkml] - ZK proof system for handwriting/signature verification - `zkml bootcamp`
   - [gkr] - Recursive GKR Proof Compression - `expander bootcamp bounty`
-  - [gvm] - GKR based Risc-V VM
+  - [gvm] - GKR-based Risc-V VM
   - [chainrs] - Experimental blockchain node built from scratch with Rust
-  - [whiteboard] - Real-time video, audio, canvas, pdf sharing & gaming with peer js & webRTC
+  - [whiteboard] - Real-time video, audio, canvas, PDF sharing & gaming with peer.js & webRTC
   - [jpeg codec] - Experimentation with JPEG codec to study file format internals in C++
   - [issue-tracker] - Index to contributions for future reference and ease of access
 
