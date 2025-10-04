@@ -31,7 +31,6 @@ Additionally, actively learning and contributing to the ethereum and zk protocol
   - [tokenized vault] - Yield-bearing smart contract - `advanced solidity bootcamp`
   - [zkml] - ZK proof system for handwriting/signature verification - `zkml bootcamp`
   - [gkr] - Recursive GKR Proof Compression - `expander bootcamp bounty`
-  - [gvm] - GKR-based Risc-V VM
   - [chainrs] - Experimental blockchain node built from scratch with Rust
   - [whiteboard] - Real-time video, audio, canvas, PDF sharing & gaming with peer.js & webRTC
   - [jpeg codec] - Experimentation with JPEG codec to study file format internals in C++
@@ -39,7 +38,6 @@ Additionally, actively learning and contributing to the ethereum and zk protocol
 
 [thaler]: https://github.com/babybear-labs/GKR
 [gkr]: https://github.com/babybear-labs/GKR
-[gvm]: https://github.com/poly-layer/gvm
 [issue-tracker]: https://github.com/MuhtasimTanmoy/Issue-tracker
 [tokenized vault]: https://github.com/solidity-bootcamp-group-5/final-project
 [zkml]: https://github.com/babybear-labs/ZKML-Bootcamp
