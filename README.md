@@ -16,7 +16,7 @@
 
  > `present:` java, microservices, kafka, kubernetes, observability                         
  > `past:` ios, messaging, XMPP, erlang, webRTC, react, signal e2e encryption                       
- > `learning:` [zk](https://github.com/poly-layer/zk), [rust](https://github.com/MuhtasimTanmoy/rust-playground), eth (EL + CL), applied crypto
+ > `learning:` [zk](https://github.com/poly-layer/zk), [rust](https://github.com/MuhtasimTanmoy/rust-playground), applied crypto
 
 Software engineer focusing on distributed systems, applied cryptography, data modeling, and computer science in general.
 
