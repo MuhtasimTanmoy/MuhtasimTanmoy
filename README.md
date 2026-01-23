@@ -22,6 +22,7 @@ Software engineer focusing on distributed systems, applied cryptography, data mo
 
 At present, primarily working on payment wallet microservices from the design to the deployment stage. Previously, worked with XMPP, encrypted messaging app & server, webRTC, and payment systems.
 
+Creator and maintainer of cryptography R&D projects under [Babybear Labs](https://github.com/babybear-labs). <br/>
 Additionally, actively learning and contributing to the ethereum and zk protocols with `Rust`, solving [problems](https://github.com/MuhtasimTanmoy/playground) and writing [blogs](https://github.com/MuhtasimTanmoy/notebook). 
 
 
