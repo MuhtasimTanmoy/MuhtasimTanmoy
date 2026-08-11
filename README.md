@@ -23,7 +23,7 @@ Software engineer focusing on distributed systems, applied cryptography, data mo
 At present, primarily working on payment wallet microservices from the design to the deployment stage. Previously, worked with XMPP, encrypted messaging app & server, webRTC, and payment systems.
 
 Creator and maintainer of cryptography R&D projects under [Babybear Labs](https://github.com/babybear-labs). <br/>
-Additionally, actively contributing ( [PRs](https://github.com/pulls?q=is%3Apr+author%3AMuhtasimTanmoy+is%3Apublic+) , [issues](https://github.com/issues/mentioned?q=commenter%3AMuhtasimTanmoy%20sort%3Aupdated-desc) ) to the Ethereum and ZK protocols with Rust, solving [problems](https://github.com/MuhtasimTanmoy/playground) and writing [blogs](https://github.com/MuhtasimTanmoy/notebook). 
+Additionally, actively contributing ( [PRs](https://github.com/search?q=author%3AMuhtasimTanmoy+is%3Apr+is%3Apublic&type=pullrequests) , [issues](https://github.com/search?q=author%3AMuhtasimTanmoy+is%3Apublic&type=issues&s=updated&o=desc) ) to the Ethereum and ZK protocols with Rust, solving [problems](https://github.com/MuhtasimTanmoy/playground) and writing [blogs](https://github.com/MuhtasimTanmoy/notebook). 
 
 
 <!--- taking notes of topics of interest --->
