@@ -1,4 +1,4 @@
-<div align="center"> Lead Software Engineer (FAVP) @ <a href='https://www.crunchbase.com/organization/bashundhara-group'>ABG Ltd · Bashundhara</a> building <a href='https://abgpocket.com'> Pocket</a> wallet (Backend + Systems) <br/> • Previously, Consultant @ <a href='https://www.reddotdigitalit.com'>Reddot</a> (Payment) • Senior Software Engineer @ <a href='https://databird.co'>Databird</a> (Messaging + Payment) <br/> • CS Graduate 2019<a href='https://buet.ac.bd'> BUET</a> 
+<div align="center"> Lead Software Engineer @ <a href='https://www.crunchbase.com/organization/bashundhara-group'>ABG Ltd · Bashundhara</a> building <a href='https://abgpocket.com'> Pocket</a> wallet (Backend + Systems) <br/> • Previously, Consultant @ <a href='https://www.reddotdigitalit.com'>Reddot</a> (Payment) • Senior Software Engineer @ <a href='https://databird.co'>Databird</a> (Messaging + Payment) <br/> • CS Graduate 2019<a href='https://buet.ac.bd'> BUET</a> 
 <br/>
 <br/>
 <br/>
